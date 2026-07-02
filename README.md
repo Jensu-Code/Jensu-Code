@@ -1,70 +1,71 @@
-<h1 align="left">Hola, soy Jesús Velásquez 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jensu-Code&label=Profile%20views&color=blue&style=flat" alt="Jensu-Code" /> </p>
 
-###
+<h1 align="center">Hi 👋, I'm Jesús Velásquez</h1>
+<h3 align="center">Informatics Engineer & Backend Developer specialized in Clean Architecture.</h3>
 
-<p align="left">Bachiller en ing Informática de la Universidad Nacional de Piura, con conocimientos solidos en el desarrollo web, con un fuerte enfoque en el Backend. Mi lema es simple: "Si lo entiendes a tu manera, nunca lo olvidas". No soy fan de memorizar código, sino de comprender la lógica que hay detrás para construir soluciones robustas y escalables.</p>
+- 🔭 I'm currently working on **Scalable backend solutions and API integrations.**
+- 🌱 I'm currently learning **Advanced DDD, Microservices, and Event-Driven Architectures with Kafka.**
+- 👯 I'm looking to collaborate on **Backend architecture, open-source tools, or strategic software design.**
+- 🤝 I'm looking for help with **GraphQL implementations or Kafka microservices**
+- 💬 Ask me about **Java (Spring Boot), PHP (Symfony), and Hexagonal Architecture.**
+- 📫 How to reach me **jensuema@gmail.com**
+- ⚡ Fun fact **I believe in deep understanding and comprehension over rote memorization**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Jensu-Code" target="_blank"><img src="https://img.shields.io/badge/GitHub-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jesus-emanuel-velasquez-jimenez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@logibyte" target="_blank"><img src="https://img.shields.io/badge/YouTube-7aa2f7?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.facebook.com/jensu.emanuel.velasquez.jimenez" target="_blank"><img src="https://img.shields.io/badge/Facebook-7aa2f7?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
-<h2 align="left">🤖Acerca de Mí</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-7aa2f7.svg?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Java-7aa2f7.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/PHP-7aa2f7.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Symfony-7aa2f7.svg?style=flat-square&logo=symfony&logoColor=white" alt="Symfony"/>
+<img src="https://img.shields.io/badge/Angular-7aa2f7.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-7aa2f7.svg?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/GitHub-7aa2f7.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Git-7aa2f7.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-7aa2f7.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-7aa2f7.svg?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/MySQL-7aa2f7.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-7aa2f7.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Postman-7aa2f7.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Bootstrap-7aa2f7.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/GraphQL-7aa2f7.svg?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+<img src="https://img.shields.io/badge/Redis-7aa2f7.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Ubuntu-7aa2f7.svg?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<img src="https://img.shields.io/badge/VS%20Code-7aa2f7.svg?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-7aa2f7.svg?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+</p>
 
-###
+<h4 align="left">Future Focus (Skills I am learning):</h4>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-7aa2f7.svg?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-7aa2f7.svg?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/AWS-7aa2f7.svg?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-7aa2f7.svg?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+</p>
 
-<p align="left">•🎓 Formación: Bachiller en   Ingeniería Informática de la UNP.<br>•💻 Especialidad: Desarrollo Backend (Symfony / Java Spring Boot).<br>•🏗️ Enfoque actual: Profundizando en Microservicios y sistemas empresariales complejos (Contabilidad/Facturación).<br>•💡 Filosofía: Aprendizaje basado en la comprensión conceptual profunda en lugar de la memorización.<br>•📢 Meta: Seguir compartiendo aprendizajes con otros devs mientras domino el ecosistema de Java.</p>
+### 🕹️ My Contribution Snake
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Jensu-Code/Jensu-Code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak" />
+</p>
 
-###
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+<img align="center" src="https://streak-stats.demolab.com/?user=Jensu-Code&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" /><br/>
+</p>
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif"  />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensu-Code&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
+<br />
 
-<h2 align="left">🧑‍💻Tecnologías</h2>
-
-###
-
-<p align="left">• Frontend: HTML5 | CSS | Angular | React | Twing | Bootstrap<br>• Backend: Java | PHP | SpringBoot | Symfony | Laravel<br>• Base de Datos: MySQL | SQL Server| PostgreSQL <br>• Control de Versiones: Git & GitHub<br>• IDE: Visual Studio Code | IntelliJ IDEA | Windsurf | Netbeans</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-###
-
-<h2 align="left">Contáctame</h2>
-
-###
-
-<div align="left">
-   <a href="https://www.linkedin.com/in/jesus-emanuel-velasquez-jimenez-407b7039a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="linkedin logo" />
+<p align="center">
+  <a href="https://profile-crest.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Generated%20with-ProfileCrest-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="ProfileCrest" />
   </a>
-  <a href="mailto:jensuema@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+</p>
